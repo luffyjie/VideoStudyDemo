@@ -1,2 +1,6 @@
 # VideoStudyDemo
 iOS音视频编解码入门学习demo
+从iphone获取视频流数据，音频流数据，实时展示
+读取视频帧数据封装H264保存到本地，读取H264解码播放出来
+PCM数据acc保存本地，读取acc数据转PCM播放
+入门了解基本的iOS音频API，视频和音频结构，熟悉音频的基本encode和decode的过程
